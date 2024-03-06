@@ -12,4 +12,7 @@ export class BootstrapMessageComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  goToNext(){
+    
+  }
 }
